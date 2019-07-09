@@ -1,4 +1,4 @@
-# ryan-vim
+# chris-vim
 my _simple_ vim config that uses [vim-plug](https://github.com/junegunn/vim-plug) to manage plugins. My primary editor is MacVim.
 
 1. `git clone git@github.com:rloomba/chris-vim.git`
